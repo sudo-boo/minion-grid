@@ -1,6 +1,8 @@
 # Minion Grid Web-Scraper
 
-This is a small web-scraping project created for scraping the LinkedIn profiles (for now) using a centralised controller and uses multiple agents for efficiency.
+This is a small web-scraping project created for scraping using a centralised controller and uses multiple agents for efficiency.
+
+Scraping is done for the LinkedIn profiles for now, if needed there will be multiple branches on this same repo.
 
 ## Prerequisites
 
